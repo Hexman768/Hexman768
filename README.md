@@ -6,4 +6,10 @@ Here are some of my current projects:
 * [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) 📜 - I contribute to this project and maintain my own fork which is used in my text editor project!
 
 ___
-![Hexman768's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexman768&show=reviews,prs_merged,prs_merged_percentage)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hexman768&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hexman768&langs_count=8&layout=donut" />
+</a>
