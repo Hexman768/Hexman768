@@ -1,9 +1,9 @@
 Hello, my name is Zachary Pedigo, I am a full-time Software Engineer based out of Kansas City, Missouri!
 
 Here are some of my current projects:
-* 📝 [Notepad-Sharp](https://github.com/Hexman768/Notepad-Sharp) - I built, maintain, and actively develop this code editing project that I started 5+ years ago! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Notepad-Sharp?style=plastic&color=darkgreen)
-* 🔭 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - I am proof-reading and ensuring the historical accuracy of the Apollo-11 guidance computer source code! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Apollo-11?style=plastic&color=orange)
-* 📜 [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - I contribute to this project and maintain my own fork which is used in my text editor project! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/FastColoredTextBox?style=plastic&color=darkgreen)
+* 📝 [Notepad-Sharp](https://github.com/Hexman768/Notepad-Sharp) - I built and maintain this code editing project that I started 5+ years ago! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Notepad-Sharp?style=plastic&color=darkgreen)
+* 🔭 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - I am helping ensure the historical accuracy of the Apollo-11 guidance computer source code! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Apollo-11?style=plastic&color=orange)
+* 📜 [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - I am a contributor and project maintainer for this code editing .NET control! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/FastColoredTextBox?style=plastic&color=darkgreen)
 
 ___
 <a href="https://github.com/anuraghazra/github-readme-stats">
