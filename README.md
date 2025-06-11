@@ -2,7 +2,7 @@ Hello, my name is Zachary Pedigo, I am a full-time Software Engineer based out o
 
 Here are some of my current projects:
 * 📝 [Notepad-Sharp](https://github.com/Hexman768/Notepad-Sharp) - I built and maintain this code editing project that I started 5+ years ago! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Notepad-Sharp?style=plastic&color=darkgreen)
-* 🔭 [Apollo-11](https://github.com/chrislgarry/Apollo-11) - I am helping ensure the historical accuracy of the Apollo-11 guidance computer source code! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/Apollo-11?style=plastic&color=orange)
+* 🔭 [virtualagc](https://github.com/virtualagc/virtualagc) - I am helping ensure the historical accuracy of the Apollo guidance computer source code! ![GitHub top language](https://img.shields.io/github/languages/top/virtualagc/virtualagc?style=plastic&color=orange)
 * 📜 [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - I am a contributor and project maintainer for this code editing .NET control! ![GitHub top language](https://img.shields.io/github/languages/top/Hexman768/FastColoredTextBox?style=plastic&color=darkgreen)
 
 ___
