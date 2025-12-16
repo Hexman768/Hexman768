@@ -17,3 +17,8 @@ ___
 
 <!-- Link Definitions -->
 [top-lang]:https://img.shields.io/github/languages/top/Hexman768/Notepad-Sharp
+
+___
+![windows](https://blob.gifcities.org/gifcities/LYTEB76KE3HPTKFIX6PAI24WMGWQ7MQO.gif)
+![hacker](https://blob.gifcities.org/gifcities/QSVFWQXTUUPS7SGDDJ3F523DR6AAEYWS.gif)
+![binary](https://blob.gifcities.org/gifcities/BN2YMTPZRSLJLZLVBDG3LLSU3O5H3SDT.gif)
